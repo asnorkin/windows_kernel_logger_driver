@@ -1,0 +1,5 @@
+﻿  Building 'test_driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\test_driver.inf [Version] section with DriverVer=01/19/2018,16.39.22.686
+C:\Programming\Win_kernel_course\export_driver\test_driver\test_driver\test_driver\test_driver.inf(8-8): error 1010: Invalid ClassGuid "", expecting {XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}.
+C:\Programming\Win_kernel_course\export_driver\test_driver\test_driver\test_driver\test_driver.inf(9-9): error 1236: Empty string not allowed for Provider.
+C:\Programming\Win_kernel_course\export_driver\test_driver\test_driver\test_driver\test_driver.inf(11-11): error 1233: Missing directive CatalogFile required for digital signature.

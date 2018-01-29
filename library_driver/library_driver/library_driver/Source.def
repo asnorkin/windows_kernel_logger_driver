@@ -1,0 +1,6 @@
+NAME library_driver.sys
+
+EXPORTS
+    DllInitialize PRIVATE
+    DllUnload     PRIVATE
+    KLoggerLog
